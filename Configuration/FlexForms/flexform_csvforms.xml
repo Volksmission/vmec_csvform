@@ -1,0 +1,104 @@
+<T3DataStructure>
+	<sheets>
+		<sDEF>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>Einstellungen</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<view.templateRootPath>
+					  <TCEforms>
+					    <label>Basispfad für Vorlagendateien</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</view.templateRootPath>				
+					<settings.csvPath>
+					  <TCEforms>
+					    <label>Pfad zur Ausgabedatei</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.csvPath>
+					<settings.csvFields>
+					  <TCEforms>
+					    <label>Felder in der Ausgabedatei (kommagetrennte Liste)</label>
+					    <config>
+					      <type>text</type>
+                                              <cols>40</cols>
+                                              <rows>7</rows>
+					    </config>
+					  </TCEforms>
+					</settings.csvFields>
+					<settings.emailRegister>
+					  <TCEforms>
+					    <label>E-Mailadresse für Benachrichtigungen</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailRegister>
+					<settings.emailRegisterSubject>
+					  <TCEforms>
+					    <label>Betreff der Benachrichtigungsmail</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailRegisterSubject>
+					<settings.emailConfirmField>
+					  <TCEforms>
+					    <label>Feld mit E-Mailadresse für Bestätigungen</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailConfirmField>
+					<settings.emailConfirmSubject>
+					  <TCEforms>
+					    <label>Betreff der Bestätigungsnachricht</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailConfirmSubject>
+					<settings.emailSenderName>
+					  <TCEforms>
+					    <label>Name des Absenders</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailSenderName>
+					<settings.emailSenderAddress>
+					  <TCEforms>
+					    <label>E-Mailadresse des Absenders</label>
+					    <config>
+					      <type>input</type>
+					      <size>40</size>
+					      <eval>trim</eval>
+					    </config>
+					  </TCEforms>
+					</settings.emailSenderAddress>
+				</el>
+			</ROOT>
+		</sDEF>
+	</sheets>
+</T3DataStructure>

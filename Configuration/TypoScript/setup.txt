@@ -1,0 +1,49 @@
+
+plugin.tx_vmecchurches {
+	view {
+		templateRootPath = {$plugin.tx_vmecchurches.view.templateRootPath}
+		partialRootPath = {$plugin.tx_vmecchurches.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_vmecchurches.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_vmecchurches.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_vmecchurches._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-vmec-churches table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-vmec-churches table th {
+		font-weight:bold;
+	}
+
+	.tx-vmec-churches table td {
+		vertical-align:top;
+	}
+
+	.typo3-messages .message-error {
+		color:red;
+	}
+
+	.typo3-messages .message-ok {
+		color:green;
+	}
+
+)

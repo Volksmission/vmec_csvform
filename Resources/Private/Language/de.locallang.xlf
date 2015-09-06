@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2014-05-28T08:59:09Z" product-name="vmec_churches">
+		<header/>
+		<body>
+			<trans-unit id="tx_vmecchurches_domain_model_church">
+				<source>Church</source>
+				<target>Gemeinde</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.city">
+				<source>City</source>
+				<target>Ort</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.name">
+				<source>Name</source>
+				<target>Name</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.url">
+				<source>Url</source>
+				<target>URL</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.image">
+				<source>Image</source>
+				<target>Bild</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.location">
+				<source>Location</source>
+				<target>Versammlungsort</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.office">
+				<source>Office</source>
+				<target>Gemeindebüro</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.leaders">
+				<source>Leaders</source>
+				<target>Leiter</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader">
+				<source>Leader</source>
+				<target>Leiter</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.title">
+				<source>Title</source>
+				<target>Titel</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.first_name">
+				<source>First Name</source>
+				<target>Vorname</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.last_name">
+				<source>Last Name</source>
+				<target>Nachname</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.email">
+				<source>Email</source>
+				<target>E-Mailadresse</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.phone">
+				<source>Phone</source>
+				<target>Telefon</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.image">
+				<source>Image</source>
+				<target>Bild</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address">
+				<source>Address</source>
+				<target>Adresse</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.street">
+				<source>Street</source>
+				<target>Straße</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.zip">
+				<source>Zip</source>
+				<target>Postleitzahl</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.city">
+				<source>City</source>
+				<target>Ort</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.geo_lat">
+				<source>Geo Lat</source>
+				<target>Geographische Länge</target>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.geo_long">
+				<source>Geo Long</source>
+				<target>Geographische Breite</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

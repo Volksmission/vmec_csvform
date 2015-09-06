@@ -1,0 +1,15 @@
+
+plugin.tx_vmecchurches {
+	view {
+		# cat=plugin.tx_vmecchurches/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:vmec_churches/Resources/Private/Templates/
+		# cat=plugin.tx_vmecchurches/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:vmec_churches/Resources/Private/Partials/
+		# cat=plugin.tx_vmecchurches/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:vmec_churches/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_vmecchurches//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

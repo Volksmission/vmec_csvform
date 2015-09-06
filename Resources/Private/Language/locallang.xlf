@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-05-28T08:59:09Z" product-name="vmec_churches">
+		<header/>
+		<body>
+			<trans-unit id="tx_vmecchurches_domain_model_church">
+				<source>Church</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.city">
+				<source>City</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.location">
+				<source>Location</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.office">
+				<source>Office</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_church.leaders">
+				<source>Leaders</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader">
+				<source>Leader</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.first_name">
+				<source>First Name</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.last_name">
+				<source>Last Name</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.phone">
+				<source>Phone</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_leader.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.street">
+				<source>Street</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.zip">
+				<source>Zip</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.city">
+				<source>City</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.geo_lat">
+				<source>Geo Lat</source>
+			</trans-unit>
+			<trans-unit id="tx_vmecchurches_domain_model_address.geo_long">
+				<source>Geo Long</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
