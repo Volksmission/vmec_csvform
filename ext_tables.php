@@ -14,5 +14,5 @@ $extensionName = \TYPO3\CMS\Core\Utility\GeneralUtility::underscoredToUpperCamel
 $pluginSignature = strtolower($extensionName) . '_csvforms';
 
 $TCA['tt_content']['types']['list']['subtypes_addlist'][$pluginSignature] = 'pi_flexform';
-t3lib_extMgm::addPiFlexFormValue($pluginSignature, 'FILE:EXT:vmec_csvform/Configuration/FlexForms/flexform_csvforms.xml');
+\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addPiFlexFormValue($pluginSignature, 'FILE:EXT:vmec_csvform/Configuration/FlexForms/flexform_csvforms.xml');
 
