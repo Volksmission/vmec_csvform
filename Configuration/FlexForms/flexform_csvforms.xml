@@ -7,7 +7,7 @@
 				</TCEforms>
 				<type>array</type>
 				<el>
-					<view.templateRootPath>
+					<view.templateRootPaths.1>
 					  <TCEforms>
 					    <label>Basispfad für Vorlagendateien</label>
 					    <config>
@@ -16,7 +16,7 @@
 					      <eval>trim</eval>
 					    </config>
 					  </TCEforms>
-					</view.templateRootPath>				
+					</view.templateRootPaths.1>				
 					<settings.csvPath>
 					  <TCEforms>
 					    <label>Pfad zur Ausgabedatei</label>
